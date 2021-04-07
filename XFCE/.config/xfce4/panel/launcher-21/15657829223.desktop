@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=System Monitor
+Comment=System Monitor - htop
+GenericName=System Monitor
+Exec=kitty -e "htop"
+Icon=utilities-system-monitor
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=System;Utility;
+Path=
