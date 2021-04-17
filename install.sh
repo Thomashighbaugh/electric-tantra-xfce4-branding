@@ -9,3 +9,4 @@
 ##########################################################
 
 cp -rvf XFCE/.config/* ~/.config
+sudo cp -rvf el-logo.png /usr/share/icons
