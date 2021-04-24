@@ -20,11 +20,11 @@ _EOF_
 echo ${GREEN} "******* Installing Electric Tantra Theming for XFCE4 *******"
 
 echo ${CYAN} "******* cloning dotfiles for electric-tantra - XFCE4 Theming *******" && sleep 1
-wget https://raw.githubusercontent.com/Thomashighbaugh/electric-tantra-xfce4-theming/master/dconf/mousepad.dconf
+wget https://raw.githubusercontent.com/Thomashighbaugh/electric-tantra-xfce4-branding/master/dconf/mousepad.dconf
 dbus-launch dconf load / < mousepad.dconf
 rm mousepad.dconf
-git clone https://github.com/Thomashighbaugh/electric-tantra-xfce4-theming.git
-cd electric-tantra-xfce4-theming
+git clone https://github.com/Thomashighbaugh/electric-tantra-xfce4-branding.git
+cd electric-tantra-xfce4-branding
 
 echo ${CYAN} "******* Getting theme packages installed now: *******" && sleep 1
 sudo pacman -S --noconfirm --needed - < xfce4-packages-list
