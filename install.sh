@@ -38,5 +38,6 @@ print s "Making Directory"
 mkdir -p "$HOME"/.config/xfce4 
 print s "Copying contents of this repo to the directory"
 cp -rvf "$PWD"/* "$HOME"/.config/xfce4
+cp -rvf "$PWD"/* /etc/xdg/xfce4 
 
 print w "Installation Completed"
