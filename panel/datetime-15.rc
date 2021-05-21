@@ -1,0 +1,6 @@
+layout=1
+date_font=Mensch Bold 10
+time_font=Mensch Bold 14
+date_format=%b %d, %Y
+time_format=%H:%M:%S
+

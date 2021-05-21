@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfdashboard" version="1.0">
+  <property name="components" type="empty">
+    <property name="applications-search-provider" type="empty">
+      <property name="sort-mode" type="uint" value="0"/>
+    </property>
+    <property name="applications-view" type="empty">
+      <property name="show-all-apps" type="bool" value="true"/>
+    </property>
+    <property name="windows-view" type="empty">
+      <property name="scroll-event-changes-workspace" type="bool" value="false"/>
+    </property>
+  </property>
+  <property name="enable-unmapped-window-workaround" type="bool" value="true"/>
+  <property name="min-notification-timeout" type="uint" value="5400"/>
+  <property name="theme" type="string" value="xfdashboard-auber"/>
+  <property name="enabled-plugins" type="array">
+    <value type="string" value="clock-view"/>
+    <value type="string" value="gnome-shell-search-provider"/>
+    <value type="string" value="middle-click-window-close"/>
+    <value type="string" value="recently-used-search-provider"/>
+  </property>
+</channel>
