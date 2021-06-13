@@ -1,3 +1,4 @@
-FileManager=caja
+FileManager=thunar
 TerminalEmulator=custom-TerminalEmulator
+WebBrowser=firefox
 

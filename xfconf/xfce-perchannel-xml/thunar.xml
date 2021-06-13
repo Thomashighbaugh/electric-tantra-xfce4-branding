@@ -2,11 +2,11 @@
 
 <channel name="thunar" version="1.0">
   <property name="last-view" type="string" value="ThunarIconView"/>
-  <property name="last-location-bar" type="string" value="ThunarLocationEntry"/>
+  <property name="last-location-bar" type="empty"/>
   <property name="last-icon-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_100_PERCENT"/>
-  <property name="last-window-width" type="int" value="478"/>
-  <property name="last-window-height" type="int" value="189"/>
+  <property name="last-window-width" type="int" value="948"/>
+  <property name="last-window-height" type="int" value="976"/>
   <property name="last-window-maximized" type="bool" value="false"/>
-  <property name="last-show-hidden" type="bool" value="true"/>
+  <property name="last-show-hidden" type="empty"/>
   <property name="last-separator-position" type="int" value="170"/>
 </channel>

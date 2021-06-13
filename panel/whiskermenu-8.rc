@@ -1,6 +1,6 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
 recent=kitty.desktop,xfce4-web-browser.desktop,xfce4-file-manager.desktop
-button-icon=xfce4-whiskermenu
+button-icon=menu
 button-single-row=false
 show-button-title=false
 show-button-icon=true

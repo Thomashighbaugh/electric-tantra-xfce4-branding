@@ -1,5 +1,5 @@
 favorites=firefox.desktop,xfce4-terminal.desktop,ristretto.desktop,org.xfce.Parole.desktop,thunar.desktop,xfce4-taskmanager.desktop,xfce-settings-manager.desktop,pavucontrol.desktop
-recent=xfce-settings-manager.desktop,thunar.desktop,xfce4-taskmanager.desktop,xfce4-terminal.desktop
+recent=xfce-keyboard-settings.desktop,xfce-wm-settings.desktop,xfce-wmtweaks-settings.desktop,xfce4-mime-settings.desktop,threshy-gui.desktop,xfce-settings-manager.desktop
 button-title=Electric Tantra Linux
 button-icon=/usr/share/icons/el-logo.png
 button-single-row=false

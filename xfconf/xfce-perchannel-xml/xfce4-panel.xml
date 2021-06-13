@@ -103,6 +103,7 @@
         <value type="string" value="tp-battery-icon"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="dropbox-client-1445"/>
         <value type="string" value="dropbox-client-2911009"/>
         <value type="string" value="KeePassXC"/>
         <value type="string" value="dropbox-client-3893"/>
